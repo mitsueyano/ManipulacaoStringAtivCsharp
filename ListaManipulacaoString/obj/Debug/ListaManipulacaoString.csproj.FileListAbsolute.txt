@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\ListaManipulacaoString\bin\Debug\ListaManipulacaoString.exe.config
+C:\Users\Acer\source\repos\ListaManipulacaoString\bin\Debug\ListaManipulacaoString.exe
+C:\Users\Acer\source\repos\ListaManipulacaoString\bin\Debug\ListaManipulacaoString.pdb
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.Menu.resources
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.Properties.Resources.resources
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.VerificadorEmail.resources
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.exe
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.pdb
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.PalavraVertical.resources
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.MoverPalavras.resources
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.frmMenu.resources
+C:\Users\Acer\source\repos\ListaManipulacaoString\obj\Debug\ListaManipulacaoString.ManipulacaoString.resources
